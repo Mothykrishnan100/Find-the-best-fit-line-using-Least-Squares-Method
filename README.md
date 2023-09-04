@@ -45,9 +45,9 @@ plt.scatter(X,Y,color='blue')
 plt.plot(X,Y_pred,color='yellow') 
 plt.show() 
 
-
+```
 ## Output:
-![image](https://github.com/Kishore2o/Find-the-best-fit-line-using-Least-Squares-Method/assets/118679883/a62e89da-84fe-4232-bfc0-bd808d8cae7a)
+![image](https://github.com/Kishore2o/Find-the-best-fit-line-using-Least-Squares-Method/assets/118679883/9824b550-f374-4abe-b371-b036b0737502)
 
 
 ## Result:
