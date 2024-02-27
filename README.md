@@ -41,7 +41,7 @@ b=Y_mean - m*X_mean
 print(b)
 Y_pred=m*X+b
 print(Y_pred)
-plt.scatter(X,Y,color='blue')
+plt.scatter(X,Y,color='blue'
 plt.plot(X,Y_pred,color='yellow') 
 plt.show() 
 
